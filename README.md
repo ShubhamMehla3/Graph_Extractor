@@ -1,5 +1,5 @@
 
-# OCR Challenge Winner 🎉🎉
+# ML Challenge Winner 🎉🎉
 
 ## Overview
 This repository contains the code and documentation for the Optical Character Recognition (OCR) solution that won the **AI Challenge** hosted by **FutureSmart AI**. The challenge focused on developing innovative solutions for extracting data from complex charts and graphs in images or PDFs.
